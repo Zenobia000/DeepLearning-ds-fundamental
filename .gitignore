@@ -1,5 +1,7 @@
 *.jpg
 *.pdf
+*.txt
+*.gz
 
 
 # Byte-compiled / optimized / DLL files
